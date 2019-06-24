@@ -1,0 +1,88 @@
+{
+  "legos": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "name": "Black Cow"
+    },
+    {
+      "creator": "A",
+      "color": "Red",
+      "shape": "B",
+      "name": "C",
+      "id": 75
+    },
+    {
+      "creator": "A",
+      "color": "Red",
+      "shape": "B",
+      "name": "C",
+      "id": 76
+    },
+    {
+      "creator": "",
+      "color": "Red",
+      "shape": "",
+      "name": "",
+      "id": 77
+    },
+    {
+      "creator": "",
+      "color": "Red",
+      "shape": "",
+      "name": "",
+      "id": 78
+    },
+    {
+      "creator": "a",
+      "color": "Red",
+      "shape": "b",
+      "name": "c",
+      "id": 79
+    },
+    {
+      "creator": "a",
+      "color": "Red",
+      "shape": "b",
+      "name": "b",
+      "id": 80
+    },
+    {
+      "creator": "Bob",
+      "color": "Red",
+      "shape": "Manimal",
+      "name": "Red Manimal",
+      "id": 81
+    },
+    {
+      "creator": "Big John",
+      "color": "Orange",
+      "shape": "Fiend",
+      "name": "Fiend Demon",
+      "id": 82
+    },
+    {
+      "creator": "Small John",
+      "color": "Blue",
+      "shape": "Freak",
+      "name": "Freakotron",
+      "id": 83
+    },
+    {
+      "creator": "",
+      "color": "Red",
+      "shape": "",
+      "name": "",
+      "id": 84
+    },
+    {
+      "creator": "",
+      "color": "Red",
+      "shape": "",
+      "name": "",
+      "id": 85
+    }
+  ]
+}
